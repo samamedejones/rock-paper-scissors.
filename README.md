@@ -7,6 +7,8 @@ A game of rock paper and scissors to pass the time, with an interactive scoreboa
 ## Aprendizados
 
 In this project, the biggest learning was creating keyframes to make animations interactive with the game, and also using the setTimeout function to make everything more fluid and compatible.
+Have fun 
+https://samamedejones.github.io/rock-paper-scissors./
 
 
 ## Technologies used
